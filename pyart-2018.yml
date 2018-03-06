@@ -1,0 +1,22 @@
+name: pyart-2018
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - cython
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - xarray
+  - netcdf4
+  - nose
+  - basemap
+  - trmm_rsl
+  - wradlib
+  - cartopy
+  - coincbc=2.9.9
+  - arm_pyart
+  - boto
+  - boto3
