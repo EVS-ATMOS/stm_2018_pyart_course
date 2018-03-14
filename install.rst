@@ -83,10 +83,16 @@ Setting up your environment
 After Anaconda is installed, you should have access to a program called "Anaconda Prompt" in your Start Menu. Click on "Anaconda Prompt" which will give you a modified version of the command prompt with a indicator to the left which shows which enviroment you are in (should be base). In Anaconda, you can set up differing operating environments that include different versions of various packages. For this tutorial, you will be setting up an environment as follows:
 
 First, make a new directory where you will install environments, for example:
+
+.. code-block:: bash
+
     md tmp
     cd tmp
 
 We will now set up our environment by typing in the command prompt:
+
+.. code-block:: bash
+
     conda update conda
     curl -O https://raw.githubusercontent.com/EVS-ATMOS/stm_2018_pyart_course/master/pyart-2018.yml
     curl -O https://raw.githubusercontent.com/EVS-ATMOS/stm_2018_pyart_course/master/test_install.py
@@ -98,6 +104,9 @@ Py-ART and many other apps!
 Testing to make sure you will stay sane
 ---------------------------------------
 Final step is to make sure our environment is working. We can test this with the test script you downloaded. In the Anaconda Prompt, type:
+
+.. code-block:: bash
+
     activate pyart-2018
     python test_insall.py
     
