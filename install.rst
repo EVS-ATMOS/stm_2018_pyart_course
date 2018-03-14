@@ -29,8 +29,7 @@ Installing
 ----------
 create a directory where you can work for example: tmp.. if you already have tmp you will need to pick another name.
 
-.. highlight:: bash
-
+.. code-block:: bash
     cd ~
     mkdir tmp
     cd tmp
@@ -38,7 +37,7 @@ create a directory where you can work for example: tmp.. if you already have tmp
 
 Next step is to run the install script
 
-.. highlight:: bash
+.. code-block:: bash
 
     chmod +x Anaconda3-5.0.1-MacOSX-x86_64.sh
     ./Anaconda3-5.0.1-MacOSX-x86_64.sh
@@ -53,7 +52,7 @@ Setting up a killer environment for science-ing
 In your new terminal window we will now update conda and
 install our environment:
 
-.. highlight:: bash
+.. code-block:: bash
 
     cd ~/tmp
     conda update conda
@@ -68,7 +67,7 @@ Testing to make sure you will stay sane
 ---------------------------------------
 Final step is to make sure our environment is set up nicely.. This is simple thanks to the test script you downloaded
 
-.. highlight:: bash
+.. code-block:: bash
 
     source activate pyart-2018
     python test_install.py
