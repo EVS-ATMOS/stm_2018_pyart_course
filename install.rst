@@ -74,12 +74,31 @@ Final step is to make sure our environment is set up nicely.. This is simple tha
 
 if you see SUCCESS then you are successful.
 
-MacOS instructions
+Windows instructions
 ==================
-Bobby you are up!
+Download whatever version (32/64 bit) is appropriate for your system. In your browser, run the .exe file that is downloaded. This will prompt you to install Anaconda into your local directory. You will want to install it for just yourself if you do not have adminstrative access to your machine. 
 
+Setting up your environment
+---------------------------
+After Anaconda is installed, you should have access to a program called "Anaconda Prompt" in your Start Menu. Click on "Anaconda Prompt" which will give you a modified version of the command prompt with a indicator to the left which shows which enviroment you are in (should be base). In Anaconda, you can set up differing operating environments that include different versions of various packages. For this tutorial, you will be setting up an environment as follows:
 
+First, make a new directory where you will install environments, for example:
+    md tmp
+    cd tmp
 
+We will now set up our environment by typing in the command prompt:
+    conda update conda
+    curl -O https://raw.githubusercontent.com/EVS-ATMOS/stm_2018_pyart_course/master/pyart-2018.yml
+    curl -O https://raw.githubusercontent.com/EVS-ATMOS/stm_2018_pyart_course/master/test_install.py
+    conda env create -f pyart-2018.yml
 
+this last step will take some time (minutes) as it determines dependencies and downloads all the cool software you need to use
+Py-ART and many other apps!
 
-
+Testing to make sure you will stay sane
+---------------------------------------
+Final step is to make sure our environment is working. We can test this with the test script you downloaded. In the Anaconda Prompt, type:
+    activate pyart-2018
+    python test_insall.py
+    
+If you see SUCCESS then you are successful.
