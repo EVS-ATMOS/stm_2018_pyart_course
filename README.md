@@ -43,5 +43,8 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 |11:15         | [Your Choice from Section 3](https://github.com/EVS-ATMOS/stm_2018_pyart_course/tree/master/3_Works_with_pyart)|
 |11:30         | Finish| 
 
-<img align="center" source="https://github.com/scollis/stm_2018_pyart_course/blob/rm_update/digr.jpg" height="250"><img align="center" source="./ARM.jpg" height="250">
+<p align="center">
+  <img src="./digr.jpg" height="250">
+  <img src="./ARM.jpg" height="250">
+</p>
 
