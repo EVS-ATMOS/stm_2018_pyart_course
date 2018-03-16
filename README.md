@@ -20,7 +20,7 @@ You can either run the tutorial from the thumbdrive or copy onto your system (re
 We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering the course materials. This
  provides a rich browser based interface to Python allowing in-line visualization.
 
-###Your Instructors
+##Your Instructors
 
 **Scott Collis**: Py-ART Science Lead, ARM Radar Translator, Argonne National Laboratory.
 
@@ -28,7 +28,7 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 
 **Valentin Louf**: Py-ART Contributor, Postdoctoral Fellow, Monash University.
 
-###Agenda
+##Agenda
 
 | Time        | Item          | 
 |------------- |------------- |
@@ -42,4 +42,6 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 |11:00         | [Changing a field and Saving](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/1_Introductory_pyart/1.3_Changing_a_field_and_saving.ipynb)|
 |11:15         | [Your Choice from Section 3](https://github.com/EVS-ATMOS/stm_2018_pyart_course/tree/master/3_Works_with_pyart)|
 |11:30         | Finish| 
+
+<img align="center" source="./digr.jpg" height="250"><img align="center" source="./ARM.jpg" height="250">
 
