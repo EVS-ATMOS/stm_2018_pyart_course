@@ -21,6 +21,7 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
  provides a rich browser based interface to Python allowing in-line visualization.
 
 ###Your Instructors
+
 **Scott Collis**: Py-ART Science Lead, ARM Radar Translator, Argonne National Laboratory.
 
 **Robert Jackson**: Py-ART Developer, CMDV Postoctoral Fellow, Argonne National Laboratory.
@@ -28,6 +29,7 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 **Valentin Louf**: Py-ART Contributor, Postdoctoral Fellow, Monash University.
 
 ###Agenda
+
 | Time        | Item          | 
 |------------- |------------- |
 |9:00          | Introductions 
