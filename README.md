@@ -43,10 +43,11 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 |11:15         | [Your Choice from Section 3](https://github.com/EVS-ATMOS/stm_2018_pyart_course/tree/master/3_Works_with_pyart)|
 |11:30         | Finish| 
 
+
+<p align="center">
+  <img src="./ARM.png" height="150">
+</p>
 <p align="center">
   <img src="./digr.jpg" height="150">
   
-</p>
-<p align="center">
-  <img src="./ARM.png" height="150">
 </p>
