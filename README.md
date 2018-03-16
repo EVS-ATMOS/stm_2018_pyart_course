@@ -24,7 +24,7 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 
 **Scott Collis**: Py-ART Science Lead, ARM Radar Translator, Argonne National Laboratory.
 
-**Robert Jackson**: Py-ART Developer, CMDV Postoctoral Fellow, Argonne National Laboratory.
+**Robert Jackson**: Py-ART Developer, CMDV Postdoctoral Fellow, Argonne National Laboratory.
 
 **Valentin Louf**: Py-ART Contributor, Postdoctoral Fellow, Monash University.
 
