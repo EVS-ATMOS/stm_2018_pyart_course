@@ -29,15 +29,15 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 
 ###Agenda
 | Time        | Item           | 
-| ------------- |-------------| 
-| 9:00      | Introductions | 
-| 9:10      | [Introduction to Jupyter](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.1_Introduction_to_Jupyter.ipynb)      |  
-| 9:25 | [Introduction to Python](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.2_Introduction_to_python.ipynb)     |  
-| 9:40| [Introduction to Scientific Python](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.3_Introduction_to_numerical_and_scientific_python.ipynb)|
-|9:55 | [Introduction to Matplotlib](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.4_Introduction_to_Matplotlib.ipynb)|
-|10:15 | Coffee |
-|10:45 | [Importing, reading and plotting a radar file](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/1_Introductory_pyart/1.0_Importing_reading_and_plotting_a_radar_file.ipynb)|
-|11:00 | [Changing a field and Saving](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/1_Introductory_pyart/1.3_Changing_a_field_and_saving.ipynb)|
-|11:15 | [Your Choice from Section 3](https://github.com/EVS-ATMOS/stm_2018_pyart_course/tree/master/3_Works_with_pyart)| 
-|11:30 | Finish |
+------------- |-------------
+9:00          | Introductions 
+9:10          | [Introduction to Jupyter](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.1_Introduction_to_Jupyter.ipynb)   
+9:25          | [Introduction to Python](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.2_Introduction_to_python.ipynb)    
+9:40          | [Introduction to Scientific Python](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.3_Introduction_to_numerical_and_scientific_python.ipynb)
+9:55          | [Introduction to Matplotlib](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/0_Introductory_python/0.4_Introduction_to_Matplotlib.ipynb)
+10:15         | Coffee 
+10:45         | [Importing, reading and plotting a radar file](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/1_Introductory_pyart/1.0_Importing_reading_and_plotting_a_radar_file.ipynb)
+11:00         | [Changing a field and Saving](https://github.com/EVS-ATMOS/stm_2018_pyart_course/blob/master/1_Introductory_pyart/1.3_Changing_a_field_and_saving.ipynb)
+11:15         | [Your Choice from Section 3](https://github.com/EVS-ATMOS/stm_2018_pyart_course/tree/master/3_Works_with_pyart)
+11:30         | Finish 
 
