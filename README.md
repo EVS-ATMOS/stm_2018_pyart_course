@@ -45,6 +45,8 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 
 <p align="center">
   <img src="./digr.jpg" height="150">
+  
+</p>
+<p align="center">
   <img src="./ARM.png" height="150">
 </p>
-
