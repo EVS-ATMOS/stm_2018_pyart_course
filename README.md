@@ -44,7 +44,7 @@ We will be using [Project Jupyter Notebooks](http://jupyter.org/) for delivering
 |11:30         | Finish| 
 
 <p align="center">
-  <img src="./digr.jpg" height="250">
-  <img src="./ARM.jpg" height="250">
+  <img src="./digr.jpg" height="150">
+  <img src="./ARM.png" height="150">
 </p>
 
